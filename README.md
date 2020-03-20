@@ -1,4 +1,4 @@
-# QuadcopterV1
+# Quadcopter V1
 This repository contains the source code for the first version of a home built quadcopter + radio transmitter
 
 This first version of the quadcopter is based on a Arduino Nano, a MPU-6050 6 axis accelerometer + gyroscope, and a NRF24l01 transceiver.
